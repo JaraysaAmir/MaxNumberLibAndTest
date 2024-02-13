@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNumberLib", "MaxNumberLib\MaxNumberLib.csproj", "{3BD1DCA8-B5AD-452D-9A6E-5A7B948E2CFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNumberLibTest", "MaxNumberLibTest\MaxNumberLibTest.csproj", "{65087B85-4B0C-4DB1-8B35-716983B8FCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD1DCA8-B5AD-452D-9A6E-5A7B948E2CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD1DCA8-B5AD-452D-9A6E-5A7B948E2CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD1DCA8-B5AD-452D-9A6E-5A7B948E2CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD1DCA8-B5AD-452D-9A6E-5A7B948E2CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65087B85-4B0C-4DB1-8B35-716983B8FCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65087B85-4B0C-4DB1-8B35-716983B8FCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65087B85-4B0C-4DB1-8B35-716983B8FCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65087B85-4B0C-4DB1-8B35-716983B8FCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B1397F-D988-48EC-9452-7A01309ACB8B}
+	EndGlobalSection
+EndGlobal
